@@ -143,6 +143,7 @@ Develop a webpage(minimum of 50 words) for each location and link it to the imag
 </p>
 </body>
 </html>
+```
 
 ### Temple.html
 ```python
